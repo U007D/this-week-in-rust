@@ -114,7 +114,6 @@ Changes to Rust follow the Rust [RFC (request for comments) process](https://git
 are the RFCs that were approved for implementation this week:
 
 * [Cargo alternative registry auth](https://github.com/rust-lang/rfcs/pull/3139)
-
 ### Final Comment Period
 
 Every week [the team](https://www.rust-lang.org/team.html) announces the
