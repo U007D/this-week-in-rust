@@ -169,7 +169,8 @@ Rusty Events between 2022-11-30 - 2022-12-28 🦀
     * [**Monthly Meeting**](https://www.meetup.com/columbus-rs/events/dpkhgrydcqblb/)
 * 2022-12-20 | San Francisco, CA, US | [San Francisco Rust Study Group](https://www.meetup.com/san-francisco-rust-study-group/)
     * [**Rust Hacking in Person**](https://www.meetup.com/san-francisco-rust-study-group/events/wjkjssydcqbbc/)
-
+* 2023-07-13 | Seattle, WA, US | [Seattle Rust User Group Meetup](https://www.meetup.com/seattle-rust-user-group)
+    * [Project Hacking or Presentation: Idiomatic Error Handling in Rust](https://www.meetup.com/seattle-rust-user-group/events/294191599)
 ### Oceania
 
 * 2022-11-24 | Brisbane, QLD, AU | [Rust Brisbane](https://www.meetup.com/rust-brisbane/)
